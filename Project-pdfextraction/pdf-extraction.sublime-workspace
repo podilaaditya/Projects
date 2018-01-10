@@ -1,0 +1,429 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"println()\tfunc"
+			],
+			[
+				"ARRAYLI",
+				"ARRAYLIST\tJava Class"
+			],
+			[
+				"ARRAY",
+				"ARRAY\tJava Class"
+			],
+			[
+				"STRING",
+				"STRING\tJava Class"
+			],
+			[
+				"IO",
+				"IOEXCEPTION\tJava Class"
+			],
+			[
+				"im",
+				"imt\timport junit.framework.TestCase;"
+			],
+			[
+				"java",
+				"I-JavaUtils\tinit"
+			],
+			[
+				"io",
+				"I-OS\tinit"
+			],
+			[
+				"ty",
+				"typename"
+			],
+			[
+				"GEN",
+				"GENRICTYPE"
+			],
+			[
+				"m",
+				"mData"
+			],
+			[
+				"G",
+				"GENRICCLASS"
+			],
+			[
+				"d",
+				"def\t#ifndef … #define … #endif"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile Improved/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile Improved/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile Improved/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 289.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Namespace"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"task",
+				"Task Timer: Stop"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 694.0,
+		"history":
+		[
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Data/Work/GitHub/Projects/Project-pdfextraction"
+	],
+	"file_history":
+	[
+		"/Volumes/Data/Work/Projects/backup/samsung_checkin/integrated_code/samsung-tune-qt/Libraries/libscroller/main.c",
+		"/Volumes/Data/Work/Projects/backup/samsung_checkin/integrated_code/samsung-tune-qt/Source/Controllers/stmusicplayerviewcontroller.cpp",
+		"/Volumes/Data/Work/Projects/backup/samsung_checkin/mar10/samsung-tune-qt/Source/Helpers/strtspstreamworker.cpp",
+		"/Volumes/Data/Work/Projects/backup/samsung_checkin/integrated_code/samsung-tune-qt/Source/Helpers/strtspstreamworker.h",
+		"/Volumes/Data/Work/Projects/backup/samsung_checkin/mar10/samsung-tune-qt/Source/SupportingFiles/main.cpp",
+		"/Volumes/Data/Work/Projects/backup/samsung_checkin/mar10/samsung-tune-qt/Source/Qml/STVolumeProgressBar.qml",
+		"/Volumes/Data/Work/Projects/backup/samsung_checkin/mar10/samsung-tune-qt/Source/Qml/STTracksListView.qml",
+		"/Volumes/Data/Work/Projects/backup/samsung_checkin/mar10/samsung-tune-qt/Source/Qml/STTrackProgressBar.qml",
+		"/Volumes/Data/Work/Projects/Iris/qrd-8916/imx132_lib.c",
+		"/Volumes/Data/Work/Projects/Iris/IMX132/MSM_kernel_IMX_132.c",
+		"/Volumes/Data/Work/Projects/Iris/IMX132/MSM_kernel_IMX_132_GITLAB.c",
+		"/Volumes/Data/Work/Projects/Iris/IMX132/mi2_kernel-imx_132.c",
+		"/Volumes/Data/Work/Projects/Iris/IMX132/imx132_tegra.c",
+		"/Volumes/Data/Work/Projects/Iris/IMX132/imx132-huwavi-8916.c",
+		"/Volumes/Data/Work/Projects/CollisionDetection/Docs/README",
+		"/Volumes/Data/Work/GitHub/SensorTracking/Human-Activity-Recognition-using-CNN/WISDM_ar_v1.1/WISDM_ar_v1.1_raw.txt",
+		"/Users/apodila/Downloads/data/satya_data/Accelorometer_28-Jun-2017 07:11:08.json",
+		"/Volumes/Data/Work/Projects/CollisionDetection/data/jun27/Sensors Data/Accelorometer_21-Jun-2017 13:04:00.json",
+		"/Volumes/Data/Work/Projects/CollisionDetection/data/FormatedData_AccelerometerSensorProbe.csv",
+		"/Users/apodila/SensorData/SensorsData/Accelorometer_19-Jun-2017 12:10:18.json",
+		"/Users/apodila/SensorData/SensorsData/Accelorometer_19-Jun-2017 12:10:39.json",
+		"/Users/apodila/SensorData/SensorsData/Accelorometer_19-Jun-2017 13:56:24.json",
+		"/Volumes/Data/Work/Projects/CollisionDetection/data/FormatedData_LinearAccelerationSensorProbe.csv",
+		"/Volumes/Data/Work/Projects/CollisionDetection/data/dataJun22017_nv.csv",
+		"/Volumes/Data/Work/Projects/CollisionDetection/data/dataJun22017.csv",
+		"/Volumes/Data/Work/Projects/CollisionDetection/data/dataJun152017.csv",
+		"/Volumes/Data/Work/Projects/CollisionDetection/data/AccelerometerSensorProbe.data",
+		"/Volumes/Data/Work/Projects/CollisionDetection/data/GyroscopeSensorProbe.data",
+		"/Volumes/Data/Work/Projects/CollisionDetection/data/LinearAccelerationSensorProbe.data",
+		"/Volumes/Data/Work/Projects/CollisionDetection/data/TrialExport.csv",
+		"/Volumes/Data/Work/Projects/CollisionDetection/code/Java8Tester.java",
+		"/Volumes/Data/Work/GitHub/pythonPractice/TF/TFFileReader",
+		"/Volumes/Data/Work/Projects/linuxCamera/webserver/webserver/README",
+		"/Volumes/Data/Work/Projects/linuxCamera/webserver/webserver/channel3/video_config",
+		"/Volumes/Data/Work/Projects/linuxCamera/webserver/webserver/image/image_id",
+		"/Volumes/Data/Work/Projects/linuxCamera/webserver/webserver/video/video_id",
+		"/Volumes/Data/Work/Projects/linuxCamera/webserver/webserver/change_setting.sh",
+		"/Users/apodila/Downloads/tensorflow-style-transfer-android-codelab-start/android/src/org/tensorflow/demo/env/ImageUtils.java",
+		"/Users/apodila/Downloads/tensorflow-style-transfer-android-codelab-start/android/jni/imageutils_jni.cc",
+		"/Volumes/Data/Work/Programming/Skill/python/print.py",
+		"/Users/apodila/Library/Application Support/Sublime Text 3/Packages/Terminal/Default (OSX).sublime-keymap",
+		"/Users/apodila/Library/Application Support/Sublime Text 3/Packages/Tint/Tint.sublime-settings",
+		"/Users/apodila/Library/Application Support/Sublime Text 3/Packages/User/Tint.sublime-settings",
+		"/Volumes/Data/Work/Imaging/AppsSensons/tutorial-1-camerapreview/log",
+		"/private/var/folders/4n/xf_124nx68s_47n9mt0bxv_00000gn/T/com.microsoft.Outlook/Outlook Temp/vsftpd.conf",
+		"/Users/apodila/Downloads/CustomBusyIndicator-QML-master/main.qml",
+		"/Users/apodila/Downloads/CustomBusyIndicator-QML-master/CustomBusyIndicator.qmlproject",
+		"/Users/apodila/Downloads/CustomBusyIndicator-QML-master/CustomBusyIndicatorStyle.qml",
+		"/Users/apodila/Downloads/CustomBusyIndicator-QML-master/CustomBusyIndicator.qml",
+		"/Users/apodila/Downloads/CustomBusyIndicator-QML-master/LICENSE.md",
+		"/Users/apodila/Downloads/CustomBusyIndicator-QML-master/README.md",
+		"/Volumes/Data/Work/Projects/samsung-new/bitbucket/cmd-app/multi-room-music/TuneApp.cpp",
+		"/Volumes/Data/Work/Projects/samsung-new/Code/live555/live/testProgs/Makefile",
+		"/Volumes/Data/Work/Projects/samsung-new/samsung/getip.c",
+		"/Users/apodila/testMap.cpp",
+		"/Volumes/Data/Work/Projects/samsung-new/Code/live555/live/testProgs/testOnDemandRTSPServer.cpp",
+		"/Volumes/Data/Work/Projects/samsung-new/samsung/MessageStack/MakeFile",
+		"/Volumes/Data/Work/Projects/samsung-new/samsung/MessageStack/TuneApp.c",
+		"/Volumes/Data/Work/Projects/cts/media/media_profiles_8916.xml",
+		"/Users/apodila/media_profiles_8916.xml",
+		"/Volumes/Data/Work/Projects/indra/logs/android_cam/logs/2017.01.23_17.24.37/device_logcat_649342239272038964.zip",
+		"/Users/apodila/log/indra/cam/hdr_google_app_1.log",
+		"/Users/apodila/log/indra/cam/hdr.log",
+		"/Users/apodila/log/hdr1.log",
+		"/Users/apodila/log/Smartron/Run1_highexposure/q1",
+		"/Users/apodila/Downloads/systemservicecrash/tombstone_09_96",
+		"/Users/apodila/Downloads/systemservicecrash/CDSWM-627/logcatim_c0172_01072017013729915325-s.txt",
+		"/Users/apodila/Downloads/systemservicecrash/CDSWM-627/logcatim_c0172_01072017013729915325-r.txt",
+		"/Users/apodila/Downloads/systemservicecrash/CDSWM-627/logcatim_c0172_01072017013729915325-m.txt",
+		"/Users/apodila/Downloads/systemservicecrash/CDSWM-627/logcatim_c0172_01072017013729915325-k.txt",
+		"/Users/apodila/Downloads/systemservicecrash/CDSWM-627/logcatim_c0172_01072017013729915325-e.txt",
+		"/Users/apodila/Downloads/systemservicecrash/CDSWM-627/logcatim_c0172_01072017013729915325-c.txt",
+		"/Volumes/Data/Work/Projects/indra/M_cameraservice/libcameraservice/CameraService.cpp",
+		"/Users/apodila/Downloads/Latestlogs/logd/logcatim_c0006_12222016175004039892-s.txt",
+		"/Users/apodila/Downloads/Latestlogs/logd/logcatim_c0006_12222016175004039892-m.txt",
+		"/Users/apodila/Downloads/Latestlogs/logd/logcatim_c0006_12222016175004039892-k.txt",
+		"/Users/apodila/Downloads/Latestlogs/logd/logcatim_c0006_12222016175004039892-e.txt",
+		"/Users/apodila/Downloads/Latestlogs/logd/logcatim_c0006_12222016175004039892-c.txt",
+		"/Users/apodila/Downloads/Latestlogs/logd/logcatim_c0006_12222016175004039892-r.txt",
+		"/Volumes/Data/Work/Projects/indra/halM/camera/QCamera2/HAL/QCameraStateMachine.cpp",
+		"/Volumes/Data/Work/Projects/indra/halM/camera/QCamera2/HAL/QCamera2HWI.h",
+		"/Volumes/Data/Work/Projects/indra/halM/camera/QCamera/HAL/core/src/QCameraHWI_Parm.cpp",
+		"/Volumes/Data/Work/Projects/indra/halM/camera/QCamera/HAL/core/inc/QCameraHWI.h",
+		"/Volumes/Data/Work/Projects/indra/halM/camera/QCamera2/HAL/QCameraParameters.cpp",
+		"/Volumes/Data/Work/Projects/indra/halM/camera/QCamera2/stack/mm-camera-interface/src/mm_camera_stream.c",
+		"/Volumes/Data/Work/Projects/indra/halM/camera/QCamera/HAL/core/src/QCameraHWI.cpp",
+		"/Users/apodila/Downloads/InnomindsSensorTracker 2/app/src/main/res/values/strings.xml",
+		"/Users/apodila/Downloads/InnomindsSensorTracker 2/app/src/main/java/sensortracker/innominds/com/innomindssensortracker/Application/SensorServices/SensorService.java",
+		"/Users/apodila/Downloads/InnomindsSensorTracker 2/app/src/main/java/sensortracker/innominds/com/innomindssensortracker/Application/Activies/SensorTrackerActivity.java",
+		"/Users/apodila/Downloads/InnomindsSensorTracker 2/app/src/main/java/sensortracker/innominds/com/innomindssensortracker/Application/Utils/SensorUtils.java",
+		"/Users/apodila/Downloads/InnomindsSensorTracker 2/app/src/main/java/sensortracker/innominds/com/innomindssensortracker/Application/SensorServices/RecordSensorDataService.java",
+		"/Users/apodila/Downloads/InnomindsSensorTracker 2/app/src/main/java/sensortracker/innominds/com/innomindssensortracker/Application/SensorServices/LocationService.java",
+		"/Users/apodila/Downloads/InnomindsSensorTracker 2/app/src/main/java/sensortracker/innominds/com/innomindssensortracker/Application/Location/LocationTracker.java",
+		"/Users/apodila/Downloads/InnomindsSensorTracker 2/.idea/workspace.xml",
+		"/Users/apodila/Downloads/InnomindsSensorTracker 2/app/src/main/java/sensortracker/innominds/com/innomindssensortracker/Application/Interfaces/SensorEventCompleteListenerInterface.java",
+		"/Volumes/Data/Work/Imaging/Git/OF/android/ofxFaceTracker2/example-android/src/ofApp.cpp",
+		"/Volumes/Data/Work/Imaging/Git/OF/android/ofxFaceTracker2/example-android/AndroidManifest.xml",
+		"/Users/apodila/Desktop/FileChanged_Added_Barcode.txt",
+		"/Users/apodila/Desktop/Considered allready not needed now for barcode",
+		"/Users/apodila/Desktop/CommitsBarcode.txt",
+		"/Users/apodila/Desktop/BarCodeCommits",
+		"/Users/apodila/Desktop/Usb_camera.txt",
+		"/Users/apodila/Downloads/android-webcam-master2/android-webcam-library/src/com/ford/openxc/webcam/WebcamManager.java",
+		"/Users/apodila/Downloads/android-webcam-master2/android-webcam-library/src/com/ford/openxc/webcam/Webcam.java",
+		"/Users/apodila/Downloads/android-webcam-master2/android-webcam-library/src/com/ford/openxc/webcam/NativeWebcam.java",
+		"/Volumes/Data/Work/Programming/DSA_JAVA/stack/StackNode.java",
+		"/Volumes/Data/Work/Programming/DSA_JAVA/linkedlist/CircularLinkedList.java",
+		"/Volumes/Data/Work/Programming/DSA_JAVA/StackOperations.java",
+		"/Volumes/Data/Work/Programming/DSA_JAVA/StackBase.java",
+		"/Volumes/Data/Work/Programming/DSA_JAVA/linkedlist/Node.java",
+		"/Volumes/Data/Work/Programming/DSA_JAVA/linkedlist/SingleLinkedList.java",
+		"/Volumes/Data/Work/Programming/DSA_JAVA/Run.java",
+		"/Volumes/Data/Work/Programming/DSA_JAVA/linkedlist/NodeDB.java",
+		"/Volumes/Data/Work/Programming/DSA_JAVA/linkedlist/DubblyLinkedList.java",
+		"/Volumes/Data/Work/Programming/DSA_JAVA/Sort.java",
+		"/Users/apodila/dualCamera_indra.log",
+		"/Volumes/Data/Work/Programming/DSA_JAVA/Node.java",
+		"/Users/apodila/Library/Application Support/Sublime Text 3/Packages/Javatar/Default (OSX).sublime-keymap",
+		"/Users/apodila/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/apodila/Downloads/imx132_lib (copy).c",
+		"/Volumes/IrisCode/qrd-8916/mm-camera/mm-camera2/media-controller/modules/sensors/sensor_libs/ov8858_8916/ov8858_8916_lib.c",
+		"/Volumes/IrisCode/qrd-8916/mm-camera/mm-camera2/media-controller/modules/sensors/includes/sensor_lib.h",
+		"/Volumes/IrisCode/qrd-8916/mm-camera/server/statsproc/aec/aec_util.c",
+		"/Volumes/IrisCode/qrd-8916/mm-camera/mm-camera2/media-controller/modules/sensors/sensor_libs/imx132/imx132_lib.c",
+		"/Volumes/IrisCode/qrd-8916/mm-camera/mm-camera2/media-controller/modules/sensors/chromatix/0301/libchromatix/chromatix_imx132/preview/chromatix_imx132_preview.h",
+		"/Volumes/IrisCode/qrd-8916/mm-camera/mm-camera2/media-controller/modules/sensors/chromatix/0301/libchromatix/chromatix_imx132/preview/chromatix_imx132_preview.c",
+		"/Volumes/IrisCode/qrd-8916/mm-camera/mm-camera2/media-controller/modules/sensors/chromatix/0208/libchromatix/chromatix_ov2720/preview/chromatix_ov2720_preview.h",
+		"/Users/apodila/log/iris/log"
+	],
+	"find":
+	{
+		"height": 58.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 65.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.cc":
+	{
+		"height": 132.0
+	},
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "Packages/Makefile Improved/Make.sublime-build",
+	"project": "pdf-extraction.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"strtspstreamworker.h",
+				"integrated_code/samsung-tune-qt/Source/Helpers/strtspstreamworker.h"
+			],
+			[
+				"",
+				"src/main/java/com/company/CompanyService.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 343.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

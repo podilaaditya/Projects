@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdfImgExtractor.iml" filepath="$PROJECT_DIR$/.idea/modules/pdfImgExtractor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdfImgExtractor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pdfImgExtractor_main.iml" group="pdfImgExtractor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pdfImgExtractor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pdfImgExtractor_test.iml" group="pdfImgExtractor" />
+    </modules>
+  </component>
+</project>
